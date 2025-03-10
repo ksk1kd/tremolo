@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply font-mono;
+    @apply text-gray-900;
+    @apply tracking-wide;
+}
+
+a {
+    @apply hover:opacity-70;
+}
+
+button {
+    @apply hover:opacity-70;
+}
