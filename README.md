@@ -13,6 +13,8 @@
 This project is aimed at learning Laravel.  
 It is designed as a web service where users can easily build a website with Markdown and the concept of Git is introduced for managing Markdown.
 
+![App Screenshot](./assets/app-screenshot.png)
+
 ## Tech Stack
 
 - Language: PHP
